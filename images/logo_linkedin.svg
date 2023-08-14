@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="linkedin-black-icon-seeklogo.com.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,32)">
+    <g
+       id="g10"
+       transform="scale(0.1)">
+      <path
+         d="m 200,50 h -30 c 0,0 0,40.6836 0,56.035 0,33.688 -40,31.137 -40,0 C 130,89.6094 130,50 130,50 h -30 v 110 h 30 v -17.652 c 13.965,25.859 70,27.773 70,-24.758 C 200,89.0234 200,50 200,50 Z M 65.0039,172.676 c -9.6601,0 -17.5039,7.902 -17.5039,17.64 0,9.743 7.8438,17.645 17.5039,17.645 9.6641,0 17.4961,-7.902 17.4961,-17.645 0,-9.738 -7.832,-17.64 -17.4961,-17.64 z M 80,50 H 50 V 160 H 80 Z M 190,240 H 50 C 22.3867,240 0,217.613 0,190 V 50 C 0,22.3945 22.3867,0 50,0 h 140 c 27.617,0 50,22.3945 50,50 v 140 c 0,27.613 -22.383,50 -50,50"
+         style="fill:#100f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path12" />
+    </g>
+  </g>
+</svg>
